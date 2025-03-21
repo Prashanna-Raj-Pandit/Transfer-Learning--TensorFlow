@@ -1,5 +1,5 @@
 # Transfer Learning Experiments with TensorFlow
-02_Transfer_Learning_Fine_Tuning.ipynb
+### 02_Transfer_Learning_Fine_Tuning.ipynb
 
 
 This project conducts a series of transfer learning experiments using TensorFlow on the Food101 dataset, specifically the 10% subset of 10 food classes. The goal is to compare feature extraction and fine-tuning approaches with varying data percentages and data augmentation, leveraging the Functional API, augmentation techniques, and model checkpointing.
